@@ -1,0 +1,8 @@
+# large files
+sam2_hiera_large.pt
+road_video.mp4
+video.mp4
+
+# jupyter notebook checkpoints
+.virtual_documents
+.ipynb_checkpoints
